@@ -31,7 +31,7 @@ function App() {
       <div className="welcome-message">
         <div className="title-container">
           <img src={crcLogo} alt="Red Cross Logo" className="logo" />
-          <h2>Red Cross Volunteer Program</h2>
+          <h2>Canadian Red Cross</h2>
         </div>
       </div>
 
